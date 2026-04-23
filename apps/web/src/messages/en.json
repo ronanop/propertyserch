@@ -1,0 +1,22 @@
+{
+  "home": {
+    "title": "India's First Real Estate Deal Execution Platform",
+    "subtitle": "Connect. Match. Close deals with trust, speed, and intelligence.",
+    "cta": "Post Property",
+    "cta2": "Find Buyers"
+  },
+  "nav": {
+    "login": "Login",
+    "dashboard": "Dashboard",
+    "blog": "Blog"
+  },
+  "compliance": {
+    "disclaimer": "AR Buildwel is an information and facilitation platform. Verify all listings independently before transacting."
+  },
+  "cities": {
+    "title": "Explore cities",
+    "mumbai": "Mumbai",
+    "delhi": "Delhi",
+    "bengaluru": "Bengaluru"
+  }
+}
